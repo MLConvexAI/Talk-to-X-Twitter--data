@@ -1,4 +1,4 @@
-# Talk with X(Twitter) data
+# Talk to X(Twitter) data
 
 This repository shows how to chat with X(Twitter) data.  The process is as follows:
 
